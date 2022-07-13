@@ -1,6 +1,6 @@
 # Exploratory Data Analysis on Cars Dataset
  
-The Dataset contains 12,000 observations with 16 different attributes. The attributes describe various feature of the cars. The attributes can describe a particular car available in the market. Some of these are presented as brand, model, fuel types, horsepower, fuel economy in both city and highways etc. You are expected to explore, visualize, and prepare the data for ML models.
+The Dataset contains 12,000 observations with 16 different attributes. The attributes describe various feature of the cars. The attributes can describe a particular car available in the market. Some of these are presented as brand, model, fuel types, horsepower, fuel economy in both city and highways etc. 
 
 
 Following were the Objectives to Perform the EDA on this Data Set:
